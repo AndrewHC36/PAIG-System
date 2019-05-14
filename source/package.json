@@ -1,11 +1,15 @@
 {
   "name": "paig-system",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "scss": "node-sass --watch scss -o css"
   },
   "devDependencies": {
     "electron": "^5.0.1"
-  }
+  },
+  "author": "Andrew Shen",
+  "license": "MIT",
+  "":""
 }
