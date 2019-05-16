@@ -1,6 +1,7 @@
 # PAIG System
 
 PAIG stands for **P**rogramming **A**rtificial **I**ntelligence  **G**raphically (GUI).
+PAIG System is a tool to help you develop AI quickly
 
 ## About
 #### Info
@@ -21,8 +22,7 @@ Please report bugs in the main issue in the repository.
 
 ## Setup
 #### Requirement
-* Python 3.7 Interpreter (with the Standard Library)
-* Kivy 1.10.1 (GUI)
+* Electron
 
 #### Installing
 * Reconsideration
@@ -31,5 +31,4 @@ Please report bugs in the main issue in the repository.
 #### Frequently Asked Question (FAQ):
 #### Questions, Comments, or Concerns (QCC):
 
-#### Funding
-(More information after we have 50 people starred this repository)
+#### Contribution

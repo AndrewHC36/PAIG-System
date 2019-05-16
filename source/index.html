@@ -3,19 +3,11 @@
   <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="index.css">
-    <title>PAIG-System Indev 2.0</title>
+    <script type="text/javascript" src="render.js"></script>
+    <title>PAIG-System ~ Indev 3.0</title>
   </head>
-  <body>
-    <div class="container">
-      <div id="col0" class="window">
-        Neuron Chooser
-      </div>
-      <div id="col1" class="window">
-        Project Window
-      </div>
-      <div id="col2" class="window">
-        Inspector
-      </div>
-    </div>
+  <body onload="projectCanvas(event);">
+    <canvas id="project-window">
+    </canvas>
   </body>
 </html>
